@@ -4,14 +4,24 @@
 
 ## Table of Contents
 * [HW1 ArrayData](HW1/src/HW01_4106029022_1.java)
+   Description:int max(): Return maximum value in array int min(): Return minimum value in array
 * [HW2 ThreeSum](HW2/HW02_4106029022_5.java)
+   Description:The classical 3SUM problem
 * [HW3 PeakArray](HW3/HW03_4106029022_5.java)
+   Description: Find out the cutting postion of Array
 * [HW4 One_Ok_Rock](HW4/HW04_4106029022_1.java)
+   Description: determine whether a give array comes from{0^k1^k}
 * [HW5 LLK](HW5/HW05_4106029022_1.java)
+   Description: set containing three points lie in a line
 * [HW6 Dessert_Desert](HW6/HW06_4106029022_1.java)
+   Description: Please return the maximum possible number of blocks in a valid partitioning
 * [HW7 Buy_Phone](HW7/HW07_4106029022_2.java)
+   Description: Please return an array containing a list of unbeatable smartphone models (In other words, filter out the phone models that can be beat by some model).
 * [HW8 Buy_Phone2](HW8/HW08_4106029022_1.java)
+   Description: Please return an array containing a list of unbeatable smartphone models (In other words, filter out the phone models that can be beat by some model).
 * [HW9 LSD](HW9/HW09_4106029022_3.java)
+   Description:Please return the longest shortest-path in the given graph.
+
 <!-- * [License](#license) -->
 
 
