@@ -21,7 +21,7 @@
    -Description: Please return an array containing a list of unbeatable smartphone models (In other words, filter out the phone models that can be beat by some model).
 * [HW9 LSD](HW9/HW09_4106029022_3.java)
    -Description:Please return the longest shortest-path in the given graph.
-* [HW10 SORT] (HW10/HW10_4106029022_1.java)
+* [HW10 SORT](HW10/HW10_4106029022_1.java)
    -Description:Please return the sorted ascending array in the given array.
 <!-- * [License](#license) -->
 
